@@ -1,7 +1,7 @@
 // 8kyu Opposites Attract
 // https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript
 
-//mistake should have used the remainder operator for everything rather than the division
+//mistake, should have used the remainder operator for everything rather than division operator for flower 1
 
 
 function lovefunc(flower1, flower2){
