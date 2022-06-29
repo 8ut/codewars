@@ -1,4 +1,4 @@
-//7kyu Binary Addition 6/28/22
+//7kyu Binary Addition 6/27/22
 //https://www.codewars.com/kata/551f37452ff852b7bd000139/train/javascript
 
 function addBinary(a,b) {
