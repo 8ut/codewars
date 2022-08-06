@@ -1,6 +1,7 @@
 //8kyu How good are you really?
 //https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript
 
+
 function betterThanAverage(classPoints, yourPoints) {
     let mean = 0;
   
