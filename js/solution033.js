@@ -1,6 +1,7 @@
 //7kyu Sum of a sequence
 //https://www.codewars.com/kata/586f6741c66d18c22800010a/train/javascript
 
+
 //completed the strict tests but code times out on codewars, inefficient algorithms may be the cause?
 //20 minutes later, the remainder variable was usless for finding the how many times the loop should iterate
 
