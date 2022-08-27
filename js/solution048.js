@@ -1,4 +1,4 @@
-//6kyu Consecutive strings
+//6kyu Consecutive strings 8/26/22
 //https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/javascript
 
 //very tuff couldnt figure out how to increment the array by k but solved the first half
